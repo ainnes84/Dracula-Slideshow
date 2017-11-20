@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.27)  17 NOV 2017 12:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.27)  20 NOV 2017 12:48
 entering extended mode
 **./Slides.tex
 (Slides.tex
@@ -662,26 +662,29 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \FrameSep=\dimen193
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\alltt.sty"
 Package: alltt 1997/06/16 v2.0g defines alltt environment
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\upquote\upquote.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\color\beamercolorthemealb
+atross.sty") ("C:\Program Files\MiKTeX 2.9\tex\latex\upquote\upquote.sty"
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
-) (Slides.aux)
+)
+(Slides.aux)
 \openout1 = `Slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -745,7 +748,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 54.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -755,66 +758,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
 
 (Slides.out) (Slides.out)
 \@outlinefile=\write5
 \openout5 = `Slides.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 53.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 54.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 54.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 53.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 53.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 53.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 53.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 54.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 54.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 53.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 53.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 53.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 54.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 53.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 53.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 54.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 54.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 5
-3.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-53.
+54.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 53.
+ut line 54.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
 c-dictionary\translator-basic-dictionary-English.dict"
@@ -842,7 +845,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (Slides.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 56.
+(hyperref)                setting the option has no effect on input line 57.
 
 [1
 
@@ -910,6 +913,37 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
 (Slides.vrb) [12
 
 ]
+\openout4 = `Slides.vrb'.
+
+ (Slides.vrb) [13
+
+] [14
+
+
+]
+\openout4 = `Slides.vrb'.
+
+ (Slides.vrb) [15
+
+] [16
+
+
+]
+\openout4 = `Slides.vrb'.
+
+ (Slides.vrb
+<figure/unnamed-chunk-16-1.pdf, id=466, 505.89pt x 361.35pt>
+File: figure/unnamed-chunk-16-1.pdf Graphic file (type pdf)
+
+<use figure/unnamed-chunk-16-1.pdf>
+Package pdftex.def Info: figure/unnamed-chunk-16-1.pdf used on input line 24.
+(pdftex.def)             Requested size: 307.28987pt x 219.49687pt.
+) [17
+
+] [18
+
+
+ <./figure/unnamed-chunk-16-1.pdf>]
 \tf@nav=\write6
 \openout6 = `Slides.nav'.
 
@@ -919,29 +953,29 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
 \tf@snm=\write8
 \openout8 = `Slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
  (Slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
 Package rerunfilecheck Info: File `Slides.out' has not changed.
-(rerunfilecheck)             Checksum: 39C5E0397CF0E62FFC850140181E9360;328.
+(rerunfilecheck)             Checksum: 21D3AAF3B21C6F711301278F1AD39515;503.
  ) 
 Here is how much of TeX's memory you used:
- 17026 strings out of 493323
- 321865 string characters out of 3139062
- 399606 words of memory out of 3000000
- 20116 multiletter control sequences out of 15000+200000
+ 17131 strings out of 493323
+ 324230 string characters out of 3139062
+ 400510 words of memory out of 3000000
+ 20194 multiletter control sequences out of 15000+200000
  10250 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,14n,55p,840b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,14n,75p,840b,582s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Slides.pdf (12 pages, 117643 bytes).
+Output written on Slides.pdf (18 pages, 158237 bytes).
 PDF statistics:
- 371 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 547 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
